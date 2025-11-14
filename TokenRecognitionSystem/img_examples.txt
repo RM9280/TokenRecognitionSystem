@@ -1,0 +1,4 @@
+<img src="pic1.jpg" alt="Picture 1">
+<img alt="Picture 1" src="pic1.jpg">
+<img rc="pic1.jpg" alt="Picture 1">
+<img al="Picture 1" src="pic1.jpg">
